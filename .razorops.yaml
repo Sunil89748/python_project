@@ -9,7 +9,6 @@ tasks:
        sonar-scanner \
         -Dsonar.projectKey=python-app \
         -Dsonar.sources=. \
-        -Dsonar.host.url=http://65.2.9.93:9000 \
-        -Dsonar.login=1bf58d2febae4a22923ce11d284d4d86f48d3f3f
-
-
+        -Dsonar.host.url=http://localhost:9000 \
+        -Dsonar.login=e2b81aa71cfccddac7bcb68c3c0347997d8a154d
+      
