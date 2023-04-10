@@ -12,4 +12,3 @@ tasks:
         -Dsonar.host.url=http://localhost:9000 \
         -Dsonar.login=e2b81aa71cfccddac7bcb68c3c0347997d8a154d
       
-<script src="https://gist.github.com/Razorops-code/e6eb9d02fe1cd24227b1f205382c30df.js"></script>
